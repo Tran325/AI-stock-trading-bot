@@ -1,3 +1,0 @@
-[submodule "yellowstone-grpc"]
-	path = yellowstone-grpc
-	url = https://github.com/rpcpool/yellowstone-grpc
