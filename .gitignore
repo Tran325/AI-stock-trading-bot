@@ -1,5 +1,2 @@
-*.class
-*.jar
-lib/
-.cake/
-pom.xml
+/target
+.env
